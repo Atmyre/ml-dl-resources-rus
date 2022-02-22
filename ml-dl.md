@@ -46,7 +46,7 @@
  Название  | Темы | Описание |
  | ------------- | ------------- | ------------- |
  | [Machine Learning Podcast](https://vk.com/mlpodcast) | #научпоп #ml | Подкаст о различных темах ML с разными людьми из этой сферы. |
- | ------------- | ------------- | ------------- |
+ | [Deep Learning Stories](https://music.yandex.ru/album/17951713) | #dl #job #interview | Мой (Танин @atmyre) подкаст о различных темах DL research с известными специалистами в области. Есть выпуски про собеседования на ML/DL research позиции, про работу исследователя DL, про DL research в медицине и т.д. <br /> Ссылки на разных платформах: <br /> [Yandex Music](https://music.yandex.ru/album/17951713) <br /> [Google Music](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82YTM5MzlhMC9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwiYhsHohtf0AhUAAAAAHQAAAAAQAQ) <br /> [Spotify](https://open.spotify.com/show/0Hg1gx1umoMfDccFRHfS1Q?si=djEsvDOTTYilGxMG1VZyMQ&utm_source=copy-link) <br /> [Apple Podcasts](https://podcasts.apple.com/ru/podcast/deep-learning-stories/id1585678829) <br /> [YouTube](https://www.youtube.com/playlist?list=PL0Ks75aof3Th1_o6VWYzIIaEl2L_g0kg5)|
  
 ## Коммьюнити
 | Название  | Темы | Описание | 
