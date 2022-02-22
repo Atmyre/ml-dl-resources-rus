@@ -1,4 +1,9 @@
+Оглавление:  
+- [Курсы](#курсы) <br />
+- [Книги](#книги) <br />
+- [Блоги](#блоги)
 
+<a name="курсы"/>
 
 ## Курсы
 | Название  | Темы | Описание | Уровень |
@@ -10,6 +15,7 @@
 |[Минимум по линейной алгебре](https://stepik.org/course/57167/info)|#алгебра|Курс подходящий для выпускников старшей школы и людей со слабой математической базой. Позволит вам погрузиться “по верхам” в одну из самых важных дисциплин для изучения машинного обучения.|:star:|
 
 
+<a name="книги"/>
 
 ## Книги
 | Название  | Темы | Описание | Уровень |
@@ -24,6 +30,7 @@
 |[Курс теории вероятностей и математической статистики](https://market.yandex.ru/product--sevastianov-b-kurs-teorii-veroiatnostei-i-matematicheskoi-statistiki/1395604841?text=%D0%93%D0%BC%D1%83%D1%80%D0%BC%D0%B0%D0%BD%20%D0%92.%D0%95.%20%22%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D0%BA%20%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D1%8E%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%20%D0%BF%D0%BE%20%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D0%B8%20%D0%B2%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9%20%D0%B8%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B5.%20%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B1%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B2%D1%80%D0%B8%D0%B0%D1%82%D0%B0%22&cpc=Xg7kNbBZqfHmSaeRHvll8k1hcFsMRF-w0JVLcYzX8d--aE-arBKp-ZKRPw8jzXnFKErWeGVjkDXJVXohZUDTvnmVbYvKv9-GR783w0R8iACVvoUiZgNTWXiR4Q-1bmSJ6PkatQf9JSYg3llHHKj7CL7sALfkTx61ol_R9OEfU50NLJ63-kW5og%2C%2C&clid=1603&track=srchlink&utm_source=google&utm_medium=search&utm_campaign=gp_offer_inmarket_bytovaya-tekhnika_dgb_search_msk&utm_content=cid%3A11254817518%7Cgid%3A117198067144%7Caid%3A562098699731%7Cph%3Adsa-19959388920%7Cpt%3A%7Cpn%3A%7Csrc%3A%7Cst%3Ag&sku=1395604841&do-waremd5=x9lBbBn2zoJn2rTH0phyaQ&cpa=1&nid=20598930)|#теорвер|Тяжёлый фундаментальный курс Б. А. Севастьянова. Рекомендуется к изучению для решения сложных случаев, подготовки к ШАД, магистратурам и докторантурам по компьютерным наукам или наукам о данных.|:star: :star: :star:|
 |[Основы математического анализа](https://www.ozon.ru/product/osnovy-matematicheskogo-analiza-chast-1-fihtengolts-grigoriy-mihaylovich-5059125/?sh=8wEAwbAFUA)|#матанализ|Учебник Г. М .Фихтенгольца из 2 частей. Рассчитан на первый и второй курс обучения на математических факультетах. Также считается классическим учебником.|:star: :star:|
 
+<a name="блоги"/>
 
 ## Блоги
 | Название  | Темы | Описание | Уровень |
